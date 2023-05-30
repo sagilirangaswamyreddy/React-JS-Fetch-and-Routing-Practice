@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.blog-list-container {
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+.blog-list-container {
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
